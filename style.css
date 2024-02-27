@@ -34,12 +34,6 @@ body    {
     color: white;
 }
 
-#menor  {
-
-    font-family: 'Montserrat', sans-serif;
-    color: blue;
-}
-
 .contenido {
     /* Estas tres lineas van a centrar el contenido verticalmente dentro de cada div */
     position: absolute;
@@ -97,7 +91,7 @@ button:active {
     }
     
     .resultado{
-        color: #0A81D1;
+        color:  #061a07;
         font-weight: bold;
         font-size: 25px;
         margin-bottom: 5px;
